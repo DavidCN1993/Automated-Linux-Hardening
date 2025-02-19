@@ -82,11 +82,3 @@ Configuring Fail2Ban...
 Setting up UFW firewall rules...
 Uploading logs to AWS S3...
 Linux Hardening Completed!
-
-Contributing
-Fork this repository.
-Create a new branch (git checkout -b feature-branch).
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature-branch).
-Open a pull request.
-
